@@ -65,7 +65,7 @@ Per-bin classification: We segment the 4x4x4 dataset to 4 bins of 4x4 (pCO2 and 
 
 All-bins classification: We take the 4x4x4 data containing 4 bins of pCO2, 4 bins of SST, and 4 bins of WSPD (binning details in Figure 4) and run a single k-means cluster. The result of winter, transition, and summer regimes is then segmented into 4 bins.
 
-For 3-D clustering, we added wind speed (WSPD) as the third variable. Comparing the regimes result above with that of per-bin classification, there are more data points in wind speed between 6 and 9 m/s than other bins across all three regimes are (Figure 2).
+For 3-D clustering, we added wind speed (WSPD) as the third variable. Comparing the regimes result above with that of per-bin classification, there are more data points in wind speed between 6 and 9 m/s than other bins across all three regimes are.
 
 Winter regime is attributable to higher wind speed (any data points with WSPD above 6m/s), while summer regime is attributable to lower wind speed (those with WSPD below 9m/s). The transition regime is attributable to all wind speed but mostly 6-12m/s, in particular high SST and pCO2 bin (25-30 Celsius and 350-400 uatm) for 6-9m/s and lower SST and moderate pCO2 (-2-20 Celsius and 300-350 uatm).
 
