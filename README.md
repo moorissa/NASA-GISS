@@ -18,22 +18,32 @@ For further information: https://data.giss.nasa.gov/oceans/carbonstates/
 ## Methodology
 
 ## Part 1: 2-D Clustering
+![](Images/2d_input.png)
 
 ### Classification Input
 
 ### 1. K-Means Clustering
+![](Images/cluster_kmeans.png)
 
 ### 2. Agglomerative / Hierarchical Clustering
+![](Images/cluster_agglo.png)
 
 ### 3. Expectation-Maximization (EM) Clustering
+![](Images/cluster_em.png)
 
 ## Part 2: 3-D Clustering
 
+### Classification Input
+![](Images/3d_input.png)
+
 ### 1. Per-bin Classification
+![](Images/class_perbin.png)
 
 ### 2. All-bins classification
+![](Images/class_allbins.png)
 
 ### Scatterplots as an alternative to histograms
+![](Images/3d_scatter.png)
 
 
 ## Conclusion
