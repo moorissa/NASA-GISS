@@ -18,9 +18,9 @@ For further information: https://data.giss.nasa.gov/oceans/carbonstates/
 ## Methodology
 
 ## Part 1: 2-D Clustering
-![](Images/2d_input.png)
 
 ### Classification Input
+![](Images/2d_input.png)
 
 ### 1. K-Means Clustering
 ![](Images/cluster_kmeans.png)
@@ -42,10 +42,5 @@ For further information: https://data.giss.nasa.gov/oceans/carbonstates/
 ### 2. All-bins classification
 ![](Images/class_allbins.png)
 
-### Scatterplots as an alternative to histograms
+### 3. Scatterplots as an alternative to histograms
 ![](Images/3d_scatter.png)
-
-
-## Conclusion
-
-Worked on an existing project on climatology data to study Translated scripts  Matlab to Python codes
